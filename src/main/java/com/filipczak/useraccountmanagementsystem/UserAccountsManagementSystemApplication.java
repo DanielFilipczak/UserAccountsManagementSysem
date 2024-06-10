@@ -1,4 +1,4 @@
-package com.filipczak.UserAccountsManagementSystem;
+package com.filipczak.useraccountmanagementsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
